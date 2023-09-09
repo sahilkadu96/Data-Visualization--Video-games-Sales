@@ -1,5 +1,6 @@
 # Data-Visualization--Video-games-Sales
-Using Tableau.
+Dataset downloaded from: https://www.kaggle.com/datasets/gregorut/videogamesales 
+Created dashboard in Tableau
 KPIs: Total names, Total Platforms, Total Publishers.
 Filtered as per Genre, Zone sales, Start date & End Date.
 The graphs provide info about the top genre, top plaftorms, top publishers & top games sold as per customizing the filters.
